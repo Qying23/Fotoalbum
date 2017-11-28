@@ -78,3 +78,30 @@ li a:hover{
 	font-family: 'Grand Hotel', cursive;
 	letter-spacing: 8.5px;
 }
+
+
+  
+/*********************  4 Bilder ***********************/
+
+.PicOTT{
+	font-family: verdana;
+	max-width: 1300px;
+	margin: 10px auto 0 auto;
+	line-height: 1.65;
+	padding-top: 20px 50px;
+	display: flex;
+	justify-content: space-between;
+}
+
+
+
+.PicFSS{
+	font-family: verdana;
+	max-width: 1300px;
+	margin: 10px auto 0 auto;
+	line-height: 1.65;
+	padding-top: 20px 50px;
+	display: flex;
+	justify-content: space-between;
+}
+
